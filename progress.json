@@ -1,0 +1,13 @@
+{
+  "problems": [
+    {
+      "n": 1,
+      "date": "2026-10-05",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "topic": "Arrays",
+      "difficulty": "Easy",
+      "path": "arrays/001-two-sum"
+    }
+  ]
+}
