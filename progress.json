@@ -8,6 +8,15 @@
       "topic": "Arrays",
       "difficulty": "Easy",
       "path": "arrays/001-two-sum"
+    },
+    {
+      "n": 2,
+      "date": "2026-10-05",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "topic": "Strings",
+      "difficulty": "Medium",
+      "path": "strings/002-longest-substring-without-repeating-characters"
     }
   ]
 }
