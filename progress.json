@@ -26,6 +26,15 @@
       "topic": "Hashing",
       "difficulty": "Medium",
       "path": "hashing/003-subarray-sum-equals-k"
+    },
+    {
+      "n": 4,
+      "date": "2026-10-06",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "topic": "Two Pointers",
+      "difficulty": "Easy",
+      "path": "two-pointers/004-valid-palindrome"
     }
   ]
 }
