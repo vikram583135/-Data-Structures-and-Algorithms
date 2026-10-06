@@ -17,6 +17,15 @@
       "topic": "Strings",
       "difficulty": "Medium",
       "path": "strings/002-longest-substring-without-repeating-characters"
+    },
+    {
+      "n": 3,
+      "date": "2026-10-05",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "topic": "Hashing",
+      "difficulty": "Medium",
+      "path": "hashing/003-subarray-sum-equals-k"
     }
   ]
 }
